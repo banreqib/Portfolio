@@ -10,3 +10,6 @@ Links to various design portfolios hosted on Google Drive.
 Contact information including email and phone number.
 
 Simple HTML and CSS structure for easy customization.
+
+## Click to see the website
+https://banreqib.github.io/Portfolio/
